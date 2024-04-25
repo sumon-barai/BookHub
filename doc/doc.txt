@@ -1,0 +1,12 @@
+backgroud remove website
+https://www.remove.bg/
+https://www.goodreads.com/shelf/show/programming
+
+
+some steps
+1. explore application UI design
+1. components tree desing 
+2. html template to react template convert
+3. data flow design and data structure
+4. then start login 
+
